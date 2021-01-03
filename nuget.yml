@@ -16,5 +16,5 @@ jobs:
       command: 'push'
       packagesToPush: '$(Build.ArtifactStagingDirectory)/**/*.nupkg'
       nuGetFeedType: 'internal'
-      publishVstsFeed: '4b9d2483-81f3-40ba-b921-4a75ed052aaf/3567ec2e-b402-46b5-b181-087b785fa2d0'
+      publishVstsFeed: '9aaf6d2c-4ab5-4d12-b235-28819cfd56c6/e422179a-a2f2-4b34-af12-1ac748bb6084'
       allowPackageConflicts: true
